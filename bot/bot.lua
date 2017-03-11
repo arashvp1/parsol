@@ -96,7 +96,7 @@ function create_config( )
     "write",
     "del"
  },
-    sudo_users = {267785153},
+    sudo_users = {81832072},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -106,23 +106,11 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》https://github.com/BeyondTeam/BDReborn 
 
 》Admins :
-》@mohammadrezajiji
-》
-》
-》
+》@arashvp1
 
-》
-》
-
-》Special thanks to :
-》@Tele_sudo
-》@Luaerror
-》
-》
-》
 
 》Our channel :
-》@titantims
+》@av_bot
 
 》
 》
