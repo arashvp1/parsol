@@ -1,4 +1,4 @@
---Start By edit by @mohammadrezajiii
+--Start By edit by @arashvp1
 local function is_channel_disabled( receiver )
  if not _config.disabled_channels then
   return false
@@ -81,5 +81,5 @@ return {
  moderated = true,
  pre_process = pre_process
 }
---End By edit by @mohammadrezajiii
+--End By edit by @arashvp1
 -- Channel 
